@@ -17,6 +17,13 @@ public class Userentry {
         System.out.println("Your integer number is: " + numero);
         System.out.println("Your choosed decimal number is: " + decimal);
         System.out.println("Your name is: " + name);
+
+        System.out.println("Enter the first number:");
+        int number1 = MyScanner.nextInt();
+        System.out.println("Enter the second number:");
+        int number2 = MyScanner.nextInt();
+        int sum = number1+ number2;
+        System.out.println("The sume of the numbers is: " + sum);
         MyScanner.close();
     }
 }
