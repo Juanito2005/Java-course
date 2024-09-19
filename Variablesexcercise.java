@@ -13,7 +13,7 @@ public class Variablesexcercise {
         String name = "Camilo";
 
         System.out.println(z);
-        System.out.println(b);
+        System.out.println(f);
         System.out.println(averyshort);
         System.out.println(a);
         System.out.println(c);
@@ -24,9 +24,18 @@ public class Variablesexcercise {
 
         z = z + b;
         b = z - b;
-        z = z -b;
+        z = z - b;
 
         System.out.println("x :" + z);
         System.out.println("y :" + b);
+
+        int j = 5, k = 3;
+
+        j = j ^ k;
+        k = k ^ j;
+        j = j ^ j;
+
+        System.out.println("j :" + j);
+        System.out.println("k :" + k);
     }
 }
