@@ -1,7 +1,13 @@
-//No entiendo una **** ****** de lo que dice acá
-//Este es la correción que Gemini hizo a un programa que le pasé
-//pero basicamente lo cambió todo
-//Mi programa orignal está abajo "comentado"
+// I know That I shouldn't make a push to main with comments
+// but I forgot it, I'm sorry Teacher Arancha
+// I ask for you teacher to don't read the comments lines since the 6 line
+// I have just made all this comments as a way to relax myself
+// And get out from my mind many bad toughs about give up
+
+// I didn't get a **** of what this programm says or how it works
+// This is the correction that Gemini made to a program that I passed to him for make "some corrections"
+// but basiclly Gemini changed it everything
+// My original programm is "comentado" down
 //       ||
 //       ||
 //     \ || /
@@ -64,7 +70,7 @@ public class Matrices {
     }
 }
 
-//programa original:
+// original programm:
 //       ||
 //       ||
 //     \ || /
